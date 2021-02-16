@@ -4,8 +4,8 @@ the word "TYPE" */
 #include<stdio.h>
 int main()
 {
-int x= 2500;
-char y='a';
+int x = 2500;
+char y = 'a';
 /* Printing num and charecter value */
 printf("%d\n",x);
 printf("%c\n",y);
