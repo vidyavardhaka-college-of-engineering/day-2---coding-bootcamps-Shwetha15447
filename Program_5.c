@@ -12,7 +12,16 @@ int main()
     int a, b, temp;
     scanf("%d%d", &a, &b);
 
-    //Write your code here
+    printf("a = %d", a);
+    printf("b = %d", b);
+
+   temp = a;
+   a = b;
+   b = temp;
+
+   
+   
+ //Write your code here
     
     
 
